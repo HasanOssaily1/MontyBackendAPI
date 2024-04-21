@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MontyBackendAPI", "MontyBackendAPI\MontyBackendAPI.csproj", "{0E8B93E7-094B-4810-93B6-0F10ADE87EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E8B93E7-094B-4810-93B6-0F10ADE87EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8B93E7-094B-4810-93B6-0F10ADE87EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8B93E7-094B-4810-93B6-0F10ADE87EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8B93E7-094B-4810-93B6-0F10ADE87EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87EC928E-5A9E-42E1-8D5B-9F3662594843}
+	EndGlobalSection
+EndGlobal
